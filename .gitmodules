@@ -1,0 +1,6 @@
+[submodule "sounds"]
+	path = sounds
+	url = C:/Users/alisson/games etc/vs/fpjs1
+[submodule "fpjs1"]
+	path = fpjs1
+	url = C:/Users/alisson/games etc/vs/fpjs1
